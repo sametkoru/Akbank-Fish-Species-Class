@@ -29,4 +29,4 @@ Bu proje, Kaggle platformunda bulunan [balık](https://www.kaggle.com/datasets/c
   - Sonuçlar, balık türlerinin görselleri ve tahminleriyle birlikte görselleştirilmiş, modelin doğru ve yanlış tahminleri analiz edilmiştir.
 
 Proje detaylarına ve kodlarına ulaşmak için aşağıdaki bağlantıya tıklayabilirsiniz:
-
+https://www.kaggle.com/code/sametkoru/akbank-fish-species-classification?scriptVersionId=203162433
